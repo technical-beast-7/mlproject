@@ -3,7 +3,6 @@ numpy==1.26.4
 seaborn
 matplotlib
 scikit-learn
-catboost
 xgboost
 dill
 Flask
